@@ -1,0 +1,12 @@
+{
+  "itemGroup.gooselegscammer": "鹅腿骗子",
+  "item.gooselegscammer.goose_leg": "鹅腿",
+  "item.gooselegscammer.duck_leg": "鸭腿",
+  "item.gooselegscammer.green_duck_leg": "发绿的鸭腿",
+  "item.gooselegscammer.goose_aunt_spawn_egg": "鹅腿阿姨刷怪蛋",
+  "item.gooselegscammer.snitch_phone": "拨打12345举报",
+  "item.gooselegscammer.stall_block": "鹅腿阿姨的摊贩",
+  "block.gooselegscammer.stall_block": "鹅腿阿姨的摊贩",
+  "container.gooselegscammer.stall": "鹅腿阿姨的小摊",
+  "entity.gooselegscammer.goose_aunt": "鹅腿阿姨"
+}

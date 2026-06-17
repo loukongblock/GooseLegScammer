@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "gooselegscammer",
+  "ingredients": [
+    "minecraft:furnace",
+    "#minecraft:planks"
+  ],
+  "result": {
+    "id": "gooselegscammer:stall_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "gooselegscammer:item/green_duck_leg"
+  }
+}

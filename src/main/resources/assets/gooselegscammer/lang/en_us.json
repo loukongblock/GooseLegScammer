@@ -1,0 +1,11 @@
+{
+  "itemGroup.gooselegscammer": "Goose Leg Scammer",
+  "item.gooselegscammer.goose_leg": "Goose Leg",
+  "item.gooselegscammer.duck_leg": "Duck Leg",
+  "item.gooselegscammer.green_duck_leg": "Greenish Duck Leg",
+  "item.gooselegscammer.goose_aunt_spawn_egg": "Goose Aunt Spawn Egg",
+  "item.gooselegscammer.snitch_phone": "Dial 12345 Report",
+  "item.gooselegscammer.stall_block": "Goose Aunt's Stall",
+  "block.gooselegscammer.stall_block": "Goose Aunt's Stall",
+  "entity.gooselegscammer.goose_aunt": "Goose Aunt"
+}

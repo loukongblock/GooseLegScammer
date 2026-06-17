@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "gooselegscammer",
+	"version": "${version}",
+	"name": "GooseLegScammer",
+	"description": "A satirical mod about the goose leg scammer. Adds goose leg, duck leg, and greenish duck leg items with unique effects.",
+	"authors": [
+		"Loukongblock","Kimi"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/gooselegscammer/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"cs.gls.GooseLegScammer"
+		],
+		"client": [
+			"cs.gls.client.GooseLegScammerClient"
+		]
+	},
+	"mixins": [
+		"gooselegscammer.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
